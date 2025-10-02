@@ -1,0 +1,7 @@
+{
+  "packs": [
+    ".json",
+    "soft-emotes.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
